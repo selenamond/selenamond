@@ -9,7 +9,7 @@
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/elenarichie"><img width="39px" alt="Telegram" title="Telegram" src="icons/tg.png"/></a>
-  <a href="https://www.linkedin.com/in/elena-utkina-36a45920a/"><img width="45px" alt="Telegram" title="Linkedin" src="icons/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/elena-utkina/"><img width="45px" alt="Telegram" title="Linkedin" src="icons/linkedin.png"/></a>
 <p>
 
 ## Language and Tools:
