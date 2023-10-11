@@ -27,7 +27,7 @@
 <code><img src="icons/allure_testops.png" width="40" height="40" alt="olgakos" title="TestOps"></code> 
 
 ## Projects:
-### [UI autotests](https://github.com/selenamond/test_shop_ui) <img width="3%" title="GitHub" src="icons/github.png">
+### [UI autotests](https://github.com/selenamond/UI_project) <img width="3%" title="GitHub" src="icons/github.png">
 
 ### [API autotests](https://github.com/selenamond/qa_guru_rest_api) <img width="3%" title="GitHub" src="icons/github.png">
       
