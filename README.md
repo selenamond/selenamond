@@ -29,6 +29,6 @@
 ## Projects:
 ### [UI autotests (Pytest, Selene, Allure, Jenkins, Selenoid)](https://github.com/selenamond/UI_project) <img width="3%" title="GitHub" src="icons/github.png">
 
-### [API autotests (Pytest, Requests, Allure, Jenkins, JSONchema](https://github.com/selenamond/qa_guru_rest_api) <img width="3%" title="GitHub" src="icons/github.png">
+### [API autotests (Pytest, Requests, Allure, Jenkins, JSONschema)](https://github.com/selenamond/qa_guru_rest_api) <img width="3%" title="GitHub" src="icons/github.png">
       
 
